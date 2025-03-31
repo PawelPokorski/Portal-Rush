@@ -13,3 +13,7 @@ Portal Rush to gra logiczna, w której sterujemy kulką w taki sposób, aby dotr
 
 * **Mobile:**
     Ruch odbywa się poprzez przesuwanie po ekranie w odpowiednim kierunku.
+
+## Uruchamianie gry
+
+Aby uruchomić grę, przejdź do: [https://pawelpokorski.github.io/Portal-Rush/](https://pawelpokorski.github.io/Portal-Rush/)
