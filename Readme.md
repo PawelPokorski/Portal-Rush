@@ -4,9 +4,12 @@ Portal Rush to gra logiczna, w której sterujemy kulką w taki sposób, aby dotr
 
 ## Sterowanie
 
-* **Ruch:**
+* **Desktop:**
     * `W` - Do przodu
     * `S` - Do tyłu
     * `A` - W lewo
     * `D` - W prawo
     * `Esc` - Pauza
+
+* **Mobile:**
+    Ruch odbywa się poprzez przesuwanie po ekranie w odpowiednim kierunku.
